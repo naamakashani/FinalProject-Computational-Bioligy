@@ -1,0 +1,55 @@
+dockr run -v /data01/:/mydata -it --name new_rna gcr.io/broad-cga-francois-gtex/rnaseqc
+rna (new one)
+docker exec -it rnaqc-container bash
+Docker exec (name) (command) 
+docker exec rna python3 -m rnaseqc notebook /aggregate_out /mydata/projects/kidney_rtt/output.ipynb
+
+To open rnaseQC
+docker start new_rna
+docker exec --user  30459:1074 -it new_rna bash
+cd rnaseqc 
+Need a specipic gtf file (
+Command:
+/rnaseqc/rnaseqc 
+/private/resources/gencode.v34.GRCh38.annotation.collapsed.gtf /data01/private/projects/kidney_rtt/small_files/TCGA-A3-3320-01A-02R-1325-07.bam /mydata/home/ls/parshas/rnaseqc_output
+
+
+First step: 
+
+
+#!/bin/bash
+
+directory="/mydata/private/projects/kidney_rtt/mrna2/new_bams/bams_new/bams"
+given_path= "/mydata/private/projects/kidney_rtt/rnaseqc_newbams/"
+
+find "$directory" -type f -name "*.bam" | while read -r file; do
+  file_name=$(basename "$file")
+  if [ ! -e "$given_path/$file_name" ]; then
+    /rnaseqc/rnaseqc /mydata/private/resources/gencode.v34.GRCh38.annotation.collapsed.gtf $file /mydata/projects/kidney_rtt/rnaseqc_newbams/
+  fi
+done
+
+
+Aggregate:
+Cd rnaseqc
+
+python3 -m rnaseqc aggregate  /mydata/projects/kidney_rtt/rnaseqc_newbams/ KIRC_more_bams
+
+python3 -m rnaseqc report --output-dir /mydata/projects/kidney_rtt/newoutput_figure/    /mydata/projects/kidney_rtt/aggregate_newbams/KIRC_more_bams.metrics.txt.gz KIRC_more_bams 
+ 
+
+
+#!/bin/bash
+
+directory="mydata/private/projects/kidney_rtt/mrna2/new_bams/bams_new/bams/part_1_small/"
+given_path="/mydata/private/projects/kidney_rtt/rnaseqc_newbams/"
+output="mydata/private/projects/kidney_rtt/rnaseqc_newbams/"
+cd "$directory"
+for file in *.bam; do
+  file_name=$(basename "$file")
+  if ! find "$given_path" -type f -name "*$file_name*" | grep -q "$file_name"; then
+    if ! find "$output" -type f -name "*$file_name*" | grep -q "$file_name"; then  
+    /rnaseqc/rnaseqc /mydata/private/resources/gencode.v34.GRCh38.annotation.collapsed.gtf "$file" "$output"
+    fi
+  fi
+done
