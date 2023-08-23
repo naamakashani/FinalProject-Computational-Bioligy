@@ -1,0 +1,10 @@
+#!/bin/bash
+for index in 1 2 3 4 5 6; do
+	dir_path=/data01/private/projects/kidney_rtt/tcga_output/small_files/part_"$index"/
+	cd "$dir_path"
+	for file_name in *.bam; do
+        	file_path="$dir_path$file_name"
+        	file_name_no_bam="${file_name%%07*}07"
+		docker run --user 30459:1074 --rm -v /data01/private/projects/kidney_rtt/output_5465/:/output -v /data01/private/resources/gencode.v34.GRCh38.annotation.gtf:/annotation.gtf -v /private/resources/genefusions/arriba/blacklist_hg38_GRCh38_v2.4.0.tsv.gz:/black.tsv.gz -v /data01/private/resources/Homo_sapiens_assembly38.fasta:/references.fa:ro -v "$file_path":/"$file_name":ro -v /data01/private/projects/kidney_rtt/ref2/known_fusions_hg38_GRCh38_v2.4.0.tsv.gz:/fusions.tsv.gz -v /data01/private/projects/kidney_rtt/ref2/protein_domains_hg38_GRCh38_v2.4.0.gff3:/protein.gtf3 uhrigs/arriba:2.4.0 /arriba_v2.4.0/arriba -x "$file_name" -o /output/"$file_name_no_bam".fusions.tsv -O /output/"$file_name_no_bam".fusions.discarded.tsv -a /references.fa -g /annotation.gtf -b /black.tsv.gz -k /fusions.tsv.gz -t /fusions.tsv.gz -p /protein.gtf3 
+	done
+done
