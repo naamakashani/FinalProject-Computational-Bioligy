@@ -1,0 +1,1420 @@
+sample: A8L7
+Number of lines with 0 in the last column:	213
+Percentage of lines with 0 in the last column:	30.52%
+Percentage of lines without 0 in the last column:	69.48%
+
+sample: 3778
+Number of lines with 0 in the last column:	588
+Percentage of lines with 0 in the last column:	19.07%
+Percentage of lines without 0 in the last column:	80.93%
+
+sample: A8OX
+Number of lines with 0 in the last column:	606
+Percentage of lines with 0 in the last column:	25.78%
+Percentage of lines without 0 in the last column:	74.22%
+
+sample: 3372
+Number of lines with 0 in the last column:	627
+Percentage of lines with 0 in the last column:	17.62%
+Percentage of lines without 0 in the last column:	82.38%
+
+sample: 3326
+Number of lines with 0 in the last column:	1356
+Percentage of lines with 0 in the last column:	43.14%
+Percentage of lines without 0 in the last column:	56.86%
+
+sample: 3320
+Number of lines with 0 in the last column:	686
+Percentage of lines with 0 in the last column:	20.20%
+Percentage of lines without 0 in the last column:	79.80%
+
+sample: 3323
+Number of lines with 0 in the last column:	930
+Percentage of lines with 0 in the last column:	26.78%
+Percentage of lines without 0 in the last column:	73.22%
+
+sample: 3387
+Number of lines with 0 in the last column:	317
+Percentage of lines with 0 in the last column:	20.77%
+Percentage of lines without 0 in the last column:	79.23%
+
+sample: 3322
+Number of lines with 0 in the last column:	929
+Percentage of lines with 0 in the last column:	27.37%
+Percentage of lines without 0 in the last column:	72.63%
+
+sample: 3434
+Number of lines with 0 in the last column:	717
+Percentage of lines with 0 in the last column:	34.79%
+Percentage of lines without 0 in the last column:	65.21%
+
+sample: 3429
+Number of lines with 0 in the last column:	520
+Percentage of lines with 0 in the last column:	32.54%
+Percentage of lines without 0 in the last column:	67.46%
+
+sample: 3451
+Number of lines with 0 in the last column:	309
+Percentage of lines with 0 in the last column:	32.25%
+Percentage of lines without 0 in the last column:	67.75%
+
+sample: 3440
+Number of lines with 0 in the last column:	525
+Percentage of lines with 0 in the last column:	30.88%
+Percentage of lines without 0 in the last column:	69.12%
+
+sample: 5812
+Number of lines with 0 in the last column:	439
+Percentage of lines with 0 in the last column:	20.66%
+Percentage of lines without 0 in the last column:	79.34%
+
+sample: 4712
+Number of lines with 0 in the last column:	439
+Percentage of lines with 0 in the last column:	28.18%
+Percentage of lines without 0 in the last column:	71.82%
+
+sample: 4703
+Number of lines with 0 in the last column:	882
+Percentage of lines with 0 in the last column:	29.19%
+Percentage of lines without 0 in the last column:	70.81%
+
+sample: 5400
+Number of lines with 0 in the last column:	460
+Percentage of lines with 0 in the last column:	28.48%
+Percentage of lines without 0 in the last column:	71.52%
+
+sample: 5709
+Number of lines with 0 in the last column:	472
+Percentage of lines with 0 in the last column:	21.98%
+Percentage of lines without 0 in the last column:	78.02%
+
+sample: 5700
+Number of lines with 0 in the last column:	327
+Percentage of lines with 0 in the last column:	20.44%
+Percentage of lines without 0 in the last column:	79.56%
+
+sample: 4823
+Number of lines with 0 in the last column:	393
+Percentage of lines with 0 in the last column:	24.53%
+Percentage of lines without 0 in the last column:	75.47%
+
+sample: 4833
+Number of lines with 0 in the last column:	636
+Percentage of lines with 0 in the last column:	26.82%
+Percentage of lines without 0 in the last column:	73.18%
+
+sample: 5399
+Number of lines with 0 in the last column:	595
+Percentage of lines with 0 in the last column:	20.22%
+Percentage of lines without 0 in the last column:	79.78%
+
+sample: 4842
+Number of lines with 0 in the last column:	170
+Percentage of lines with 0 in the last column:	30.58%
+Percentage of lines without 0 in the last column:	69.42%
+
+sample: 5697
+Number of lines with 0 in the last column:	345
+Percentage of lines with 0 in the last column:	19.13%
+Percentage of lines without 0 in the last column:	80.87%
+
+sample: 4814
+Number of lines with 0 in the last column:	996
+Percentage of lines with 0 in the last column:	31.13%
+Percentage of lines without 0 in the last column:	68.87%
+
+sample: 4810
+Number of lines with 0 in the last column:	606
+Percentage of lines with 0 in the last column:	20.51%
+Percentage of lines without 0 in the last column:	79.49%
+
+sample: 4337
+Number of lines with 0 in the last column:	741
+Percentage of lines with 0 in the last column:	22.41%
+Percentage of lines without 0 in the last column:	77.59%
+
+sample: 4164
+Number of lines with 0 in the last column:	573
+Percentage of lines with 0 in the last column:	22.06%
+Percentage of lines without 0 in the last column:	77.94%
+
+sample: 5168
+Number of lines with 0 in the last column:	522
+Percentage of lines with 0 in the last column:	29.56%
+Percentage of lines without 0 in the last column:	70.44%
+
+sample: 4807
+Number of lines with 0 in the last column:	527
+Percentage of lines with 0 in the last column:	31.22%
+Percentage of lines without 0 in the last column:	68.78%
+
+sample: 4804
+Number of lines with 0 in the last column:	919
+Percentage of lines with 0 in the last column:	36.04%
+Percentage of lines without 0 in the last column:	63.96%
+
+sample: 4771
+Number of lines with 0 in the last column:	1004
+Percentage of lines with 0 in the last column:	31.72%
+Percentage of lines without 0 in the last column:	68.28%
+
+sample: 4327
+Number of lines with 0 in the last column:	894
+Percentage of lines with 0 in the last column:	27.45%
+Percentage of lines without 0 in the last column:	72.55%
+
+sample: 5175
+Number of lines with 0 in the last column:	397
+Percentage of lines with 0 in the last column:	22.56%
+Percentage of lines without 0 in the last column:	77.44%
+
+sample: 4329
+Number of lines with 0 in the last column:	716
+Percentage of lines with 0 in the last column:	37.78%
+Percentage of lines without 0 in the last column:	62.22%
+
+sample: 4173
+Number of lines with 0 in the last column:	855
+Percentage of lines with 0 in the last column:	28.32%
+Percentage of lines without 0 in the last column:	71.68%
+
+sample: 4344
+Number of lines with 0 in the last column:	798
+Percentage of lines with 0 in the last column:	25.90%
+Percentage of lines without 0 in the last column:	74.10%
+
+sample: 4177
+Number of lines with 0 in the last column:	430
+Percentage of lines with 0 in the last column:	24.12%
+Percentage of lines without 0 in the last column:	75.88%
+
+sample: 4334
+Number of lines with 0 in the last column:	248
+Percentage of lines with 0 in the last column:	30.10%
+Percentage of lines without 0 in the last column:	69.90%
+
+sample: 4170
+Number of lines with 0 in the last column:	692
+Percentage of lines with 0 in the last column:	33.72%
+Percentage of lines without 0 in the last column:	66.28%
+
+sample: 4341
+Number of lines with 0 in the last column:	823
+Percentage of lines with 0 in the last column:	24.13%
+Percentage of lines without 0 in the last column:	75.87%
+
+sample: 4332
+Number of lines with 0 in the last column:	787
+Percentage of lines with 0 in the last column:	24.99%
+Percentage of lines without 0 in the last column:	75.01%
+
+sample: 5181
+Number of lines with 0 in the last column:	349
+Percentage of lines with 0 in the last column:	21.73%
+Percentage of lines without 0 in the last column:	78.27%
+
+sample: 4765
+Number of lines with 0 in the last column:	624
+Percentage of lines with 0 in the last column:	20.86%
+Percentage of lines without 0 in the last column:	79.14%
+
+sample: A54D
+Number of lines with 0 in the last column:	717
+Percentage of lines with 0 in the last column:	22.33%
+Percentage of lines without 0 in the last column:	77.67%
+
+sample: 5552
+Number of lines with 0 in the last column:	531
+Percentage of lines with 0 in the last column:	25.69%
+Percentage of lines without 0 in the last column:	74.31%
+
+sample: 4102
+Number of lines with 0 in the last column:	939
+Percentage of lines with 0 in the last column:	25.98%
+Percentage of lines without 0 in the last column:	74.02%
+
+sample: 5832
+Number of lines with 0 in the last column:	275
+Percentage of lines with 0 in the last column:	33.29%
+Percentage of lines without 0 in the last column:	66.71%
+
+sample: 4620
+Number of lines with 0 in the last column:	827
+Percentage of lines with 0 in the last column:	31.33%
+Percentage of lines without 0 in the last column:	68.67%
+
+sample: 5546
+Number of lines with 0 in the last column:	370
+Percentage of lines with 0 in the last column:	22.48%
+Percentage of lines without 0 in the last column:	77.52%
+
+sample: 4098
+Number of lines with 0 in the last column:	880
+Percentage of lines with 0 in the last column:	31.88%
+Percentage of lines without 0 in the last column:	68.12%
+
+sample: A4W0
+Number of lines with 0 in the last column:	904
+Percentage of lines with 0 in the last column:	30.47%
+Percentage of lines without 0 in the last column:	69.53%
+
+sample: 5987
+Number of lines with 0 in the last column:	739
+Percentage of lines with 0 in the last column:	36.28%
+Percentage of lines without 0 in the last column:	63.72%
+
+sample: 4894
+Number of lines with 0 in the last column:	830
+Percentage of lines with 0 in the last column:	23.69%
+Percentage of lines without 0 in the last column:	76.31%
+
+sample: 5986
+Number of lines with 0 in the last column:	726
+Percentage of lines with 0 in the last column:	33.17%
+Percentage of lines without 0 in the last column:	66.83%
+
+sample: 5576
+Number of lines with 0 in the last column:	451
+Percentage of lines with 0 in the last column:	17.92%
+Percentage of lines without 0 in the last column:	82.08%
+
+sample: 5985
+Number of lines with 0 in the last column:	513
+Percentage of lines with 0 in the last column:	31.51%
+Percentage of lines without 0 in the last column:	68.49%
+
+sample: 5675
+Number of lines with 0 in the last column:	399
+Percentage of lines with 0 in the last column:	22.01%
+Percentage of lines without 0 in the last column:	77.99%
+
+sample: A563
+Number of lines with 0 in the last column:	926
+Percentage of lines with 0 in the last column:	37.25%
+Percentage of lines without 0 in the last column:	62.75%
+
+sample: 4644
+Number of lines with 0 in the last column:	413
+Percentage of lines with 0 in the last column:	28.40%
+Percentage of lines without 0 in the last column:	71.60%
+
+sample: 5588
+Number of lines with 0 in the last column:	428
+Percentage of lines with 0 in the last column:	26.95%
+Percentage of lines without 0 in the last column:	73.05%
+
+sample: 5584
+Number of lines with 0 in the last column:	429
+Percentage of lines with 0 in the last column:	21.72%
+Percentage of lines without 0 in the last column:	78.28%
+
+sample: 5988
+Number of lines with 0 in the last column:	581
+Percentage of lines with 0 in the last column:	33.35%
+Percentage of lines without 0 in the last column:	66.65%
+
+sample: 5904
+Number of lines with 0 in the last column:	584
+Percentage of lines with 0 in the last column:	27.64%
+Percentage of lines without 0 in the last column:	72.36%
+
+sample: 6033
+Number of lines with 0 in the last column:	398
+Percentage of lines with 0 in the last column:	22.25%
+Percentage of lines without 0 in the last column:	77.75%
+
+sample: 4869
+Number of lines with 0 in the last column:	286
+Percentage of lines with 0 in the last column:	17.16%
+Percentage of lines without 0 in the last column:	82.84%
+
+sample: 4908
+Number of lines with 0 in the last column:	864
+Percentage of lines with 0 in the last column:	25.78%
+Percentage of lines without 0 in the last column:	74.22%
+
+sample: 5465
+Number of lines with 0 in the last column:	376
+Percentage of lines with 0 in the last column:	19.42%
+Percentage of lines without 0 in the last column:	80.58%
+
+sample: 3380
+Number of lines with 0 in the last column:	1104
+Percentage of lines with 0 in the last column:	38.97%
+Percentage of lines without 0 in the last column:	61.03%
+
+sample: 5088
+Number of lines with 0 in the last column:	1003
+Percentage of lines with 0 in the last column:	32.64%
+Percentage of lines without 0 in the last column:	67.36%
+
+sample: 4621
+Number of lines with 0 in the last column:	942
+Percentage of lines with 0 in the last column:	42.15%
+Percentage of lines without 0 in the last column:	57.85%
+
+sample: 5104
+Number of lines with 0 in the last column:	877
+Percentage of lines with 0 in the last column:	30.60%
+Percentage of lines without 0 in the last column:	69.40%
+
+sample: 3370
+Number of lines with 0 in the last column:	1121
+Percentage of lines with 0 in the last column:	31.86%
+Percentage of lines without 0 in the last column:	68.14%
+
+sample: 5084
+Number of lines with 0 in the last column:	651
+Percentage of lines with 0 in the last column:	26.61%
+Percentage of lines without 0 in the last column:	73.39%
+
+sample: 4972
+Number of lines with 0 in the last column:	760
+Percentage of lines with 0 in the last column:	27.66%
+Percentage of lines without 0 in the last column:	72.34%
+
+sample: 5201
+Number of lines with 0 in the last column:	634
+Percentage of lines with 0 in the last column:	24.68%
+Percentage of lines without 0 in the last column:	75.32%
+
+sample: 4970
+Number of lines with 0 in the last column:	579
+Percentage of lines with 0 in the last column:	26.91%
+Percentage of lines without 0 in the last column:	73.09%
+
+sample: 4964
+Number of lines with 0 in the last column:	753
+Percentage of lines with 0 in the last column:	28.07%
+Percentage of lines without 0 in the last column:	71.93%
+
+sample: 4965
+Number of lines with 0 in the last column:	630
+Percentage of lines with 0 in the last column:	24.36%
+Percentage of lines without 0 in the last column:	75.64%
+
+sample: 4983
+Number of lines with 0 in the last column:	752
+Percentage of lines with 0 in the last column:	29.12%
+Percentage of lines without 0 in the last column:	70.88%
+
+sample: 4971
+Number of lines with 0 in the last column:	1034
+Percentage of lines with 0 in the last column:	29.82%
+Percentage of lines without 0 in the last column:	70.18%
+
+sample: 4960
+Number of lines with 0 in the last column:	857
+Percentage of lines with 0 in the last column:	37.52%
+Percentage of lines without 0 in the last column:	62.48%
+
+sample: 4918
+Number of lines with 0 in the last column:	526
+Percentage of lines with 0 in the last column:	23.24%
+Percentage of lines without 0 in the last column:	76.76%
+
+sample: 4916
+Number of lines with 0 in the last column:	1023
+Percentage of lines with 0 in the last column:	32.16%
+Percentage of lines without 0 in the last column:	67.84%
+
+sample: 5678
+Number of lines with 0 in the last column:	471
+Percentage of lines with 0 in the last column:	33.67%
+Percentage of lines without 0 in the last column:	66.33%
+
+sample: 4899
+Number of lines with 0 in the last column:	888
+Percentage of lines with 0 in the last column:	29.23%
+Percentage of lines without 0 in the last column:	70.77%
+
+sample: 4902
+Number of lines with 0 in the last column:	1244
+Percentage of lines with 0 in the last column:	36.27%
+Percentage of lines without 0 in the last column:	63.73%
+
+sample: 4903
+Number of lines with 0 in the last column:	999
+Percentage of lines with 0 in the last column:	35.39%
+Percentage of lines without 0 in the last column:	64.61%
+
+sample: 4897
+Number of lines with 0 in the last column:	438
+Percentage of lines with 0 in the last column:	24.94%
+Percentage of lines without 0 in the last column:	75.06%
+
+sample: 5984
+Number of lines with 0 in the last column:	705
+Percentage of lines with 0 in the last column:	33.99%
+Percentage of lines without 0 in the last column:	66.01%
+
+sample: 5466
+Number of lines with 0 in the last column:	375
+Percentage of lines with 0 in the last column:	26.22%
+Percentage of lines without 0 in the last column:	73.78%
+
+sample: 4854
+Number of lines with 0 in the last column:	1103
+Percentage of lines with 0 in the last column:	34.46%
+Percentage of lines without 0 in the last column:	65.54%
+
+sample: 4853
+Number of lines with 0 in the last column:	911
+Percentage of lines with 0 in the last column:	36.17%
+Percentage of lines without 0 in the last column:	63.83%
+
+sample: 5454
+Number of lines with 0 in the last column:	341
+Percentage of lines with 0 in the last column:	25.85%
+Percentage of lines without 0 in the last column:	74.15%
+
+sample: 4859
+Number of lines with 0 in the last column:	458
+Percentage of lines with 0 in the last column:	31.37%
+Percentage of lines without 0 in the last column:	68.63%
+
+sample: 4864
+Number of lines with 0 in the last column:	652
+Percentage of lines with 0 in the last column:	33.66%
+Percentage of lines without 0 in the last column:	66.34%
+
+sample: A4VZ
+Number of lines with 0 in the last column:	644
+Percentage of lines with 0 in the last column:	24.66%
+Percentage of lines without 0 in the last column:	75.34%
+
+sample: 5566
+Number of lines with 0 in the last column:	507
+Percentage of lines with 0 in the last column:	25.80%
+Percentage of lines without 0 in the last column:	74.20%
+
+sample: 5567
+Number of lines with 0 in the last column:	490
+Percentage of lines with 0 in the last column:	22.48%
+Percentage of lines without 0 in the last column:	77.52%
+
+sample: A4W0
+Number of lines with 0 in the last column:	777
+Percentage of lines with 0 in the last column:	29.13%
+Percentage of lines without 0 in the last column:	70.87%
+
+sample: 5565
+Number of lines with 0 in the last column:	413
+Percentage of lines with 0 in the last column:	23.35%
+Percentage of lines without 0 in the last column:	76.65%
+
+sample: A4VX
+Number of lines with 0 in the last column:	617
+Percentage of lines with 0 in the last column:	30.74%
+Percentage of lines without 0 in the last column:	69.26%
+
+sample: 5569
+Number of lines with 0 in the last column:	466
+Percentage of lines with 0 in the last column:	25.20%
+Percentage of lines without 0 in the last column:	74.80%
+
+sample: 5568
+Number of lines with 0 in the last column:	523
+Percentage of lines with 0 in the last column:	25.43%
+Percentage of lines without 0 in the last column:	74.57%
+
+sample: 5575
+Number of lines with 0 in the last column:	421
+Percentage of lines with 0 in the last column:	22.83%
+Percentage of lines without 0 in the last column:	77.17%
+
+sample: 5573
+Number of lines with 0 in the last column:	596
+Percentage of lines with 0 in the last column:	21.22%
+Percentage of lines without 0 in the last column:	78.78%
+
+sample: A84U
+Number of lines with 0 in the last column:	717
+Percentage of lines with 0 in the last column:	31.66%
+Percentage of lines without 0 in the last column:	68.34%
+
+sample: 5905
+Number of lines with 0 in the last column:	534
+Percentage of lines with 0 in the last column:	29.10%
+Percentage of lines without 0 in the last column:	70.90%
+
+sample: 5907
+Number of lines with 0 in the last column:	681
+Percentage of lines with 0 in the last column:	34.32%
+Percentage of lines without 0 in the last column:	65.68%
+
+sample: A564
+Number of lines with 0 in the last column:	605
+Percentage of lines with 0 in the last column:	28.02%
+Percentage of lines without 0 in the last column:	71.98%
+
+sample: A8L8
+Number of lines with 0 in the last column:	836
+Percentage of lines with 0 in the last column:	28.09%
+Percentage of lines without 0 in the last column:	71.91%
+
+sample: A5PC
+Number of lines with 0 in the last column:	290
+Percentage of lines with 0 in the last column:	23.37%
+Percentage of lines without 0 in the last column:	76.63%
+
+sample: A4EC
+Number of lines with 0 in the last column:	523
+Percentage of lines with 0 in the last column:	22.48%
+Percentage of lines without 0 in the last column:	77.52%
+
+sample: A8L6
+Number of lines with 0 in the last column:	642
+Percentage of lines with 0 in the last column:	31.52%
+Percentage of lines without 0 in the last column:	68.48%
+
+sample: 3358
+Number of lines with 0 in the last column:	628
+Percentage of lines with 0 in the last column:	23.65%
+Percentage of lines without 0 in the last column:	76.35%
+
+sample: 3425
+Number of lines with 0 in the last column:	465
+Percentage of lines with 0 in the last column:	28.15%
+Percentage of lines without 0 in the last column:	71.85%
+
+sample: 3426
+Number of lines with 0 in the last column:	460
+Percentage of lines with 0 in the last column:	28.15%
+Percentage of lines without 0 in the last column:	71.85%
+
+sample: 3428
+Number of lines with 0 in the last column:	426
+Percentage of lines with 0 in the last column:	35.53%
+Percentage of lines without 0 in the last column:	64.47%
+
+sample: 3431
+Number of lines with 0 in the last column:	441
+Percentage of lines with 0 in the last column:	31.34%
+Percentage of lines without 0 in the last column:	68.66%
+
+sample: 3433
+Number of lines with 0 in the last column:	791
+Percentage of lines with 0 in the last column:	36.27%
+Percentage of lines without 0 in the last column:	63.73%
+
+sample: 3436
+Number of lines with 0 in the last column:	375
+Percentage of lines with 0 in the last column:	23.54%
+Percentage of lines without 0 in the last column:	76.46%
+
+sample: 3445
+Number of lines with 0 in the last column:	921
+Percentage of lines with 0 in the last column:	31.77%
+Percentage of lines without 0 in the last column:	68.23%
+
+sample: 3447
+Number of lines with 0 in the last column:	216
+Percentage of lines with 0 in the last column:	30.77%
+Percentage of lines without 0 in the last column:	69.23%
+
+sample: 3450
+Number of lines with 0 in the last column:	724
+Percentage of lines with 0 in the last column:	31.48%
+Percentage of lines without 0 in the last column:	68.52%
+
+sample: 3453
+Number of lines with 0 in the last column:	559
+Percentage of lines with 0 in the last column:	32.33%
+Percentage of lines without 0 in the last column:	67.67%
+
+sample: 3454
+Number of lines with 0 in the last column:	448
+Percentage of lines with 0 in the last column:	36.87%
+Percentage of lines without 0 in the last column:	63.13%
+
+sample: 3455
+Number of lines with 0 in the last column:	436
+Percentage of lines with 0 in the last column:	18.81%
+Percentage of lines without 0 in the last column:	81.19%
+
+sample: 3456
+Number of lines with 0 in the last column:	590
+Percentage of lines with 0 in the last column:	29.65%
+Percentage of lines without 0 in the last column:	70.35%
+
+sample: 3458
+Number of lines with 0 in the last column:	477
+Percentage of lines with 0 in the last column:	20.77%
+Percentage of lines without 0 in the last column:	79.23%
+
+sample: 3460
+Number of lines with 0 in the last column:	624
+Percentage of lines with 0 in the last column:	25.20%
+Percentage of lines without 0 in the last column:	74.80%
+
+sample: 3461
+Number of lines with 0 in the last column:	895
+Percentage of lines with 0 in the last column:	30.34%
+Percentage of lines without 0 in the last column:	69.66%
+
+sample: 3923
+Number of lines with 0 in the last column:	613
+Percentage of lines with 0 in the last column:	26.30%
+Percentage of lines without 0 in the last column:	73.70%
+
+sample: 3924
+Number of lines with 0 in the last column:	645
+Percentage of lines with 0 in the last column:	30.66%
+Percentage of lines without 0 in the last column:	69.34%
+
+sample: 4099
+Number of lines with 0 in the last column:	611
+Percentage of lines with 0 in the last column:	27.96%
+Percentage of lines without 0 in the last column:	72.04%
+
+sample: 4101
+Number of lines with 0 in the last column:	1016
+Percentage of lines with 0 in the last column:	29.25%
+Percentage of lines without 0 in the last column:	70.75%
+
+sample: 5633
+Number of lines with 0 in the last column:	527
+Percentage of lines with 0 in the last column:	23.16%
+Percentage of lines without 0 in the last column:	76.84%
+
+sample: 5635
+Number of lines with 0 in the last column:	619
+Percentage of lines with 0 in the last column:	22.56%
+Percentage of lines without 0 in the last column:	77.44%
+
+sample: 5636
+Number of lines with 0 in the last column:	567
+Percentage of lines with 0 in the last column:	23.16%
+Percentage of lines without 0 in the last column:	76.84%
+
+sample: 5639
+Number of lines with 0 in the last column:	323
+Percentage of lines with 0 in the last column:	19.84%
+Percentage of lines without 0 in the last column:	80.16%
+
+sample: 5641
+Number of lines with 0 in the last column:	463
+Percentage of lines with 0 in the last column:	23.48%
+Percentage of lines without 0 in the last column:	76.52%
+
+sample: 5641
+Number of lines with 0 in the last column:	797
+Percentage of lines with 0 in the last column:	29.74%
+Percentage of lines without 0 in the last column:	70.26%
+
+sample: A4SR
+Number of lines with 0 in the last column:	783
+Percentage of lines with 0 in the last column:	26.39%
+Percentage of lines without 0 in the last column:	73.61%
+
+sample: A6NN
+Number of lines with 0 in the last column:	609
+Percentage of lines with 0 in the last column:	21.53%
+Percentage of lines without 0 in the last column:	78.47%
+
+sample: A7U6
+Number of lines with 0 in the last column:	724
+Percentage of lines with 0 in the last column:	32.24%
+Percentage of lines without 0 in the last column:	67.76%
+
+sample: AA2E
+Number of lines with 0 in the last column:	647
+Percentage of lines with 0 in the last column:	29.65%
+Percentage of lines without 0 in the last column:	70.35%
+
+sample: 3308
+Number of lines with 0 in the last column:	1016
+Percentage of lines with 0 in the last column:	30.99%
+Percentage of lines without 0 in the last column:	69.01%
+
+sample: 3317
+Number of lines with 0 in the last column:	735
+Percentage of lines with 0 in the last column:	19.79%
+Percentage of lines without 0 in the last column:	80.21%
+
+sample: 3329
+Number of lines with 0 in the last column:	823
+Percentage of lines with 0 in the last column:	32.80%
+Percentage of lines without 0 in the last column:	67.20%
+
+sample: 3347
+Number of lines with 0 in the last column:	1012
+Percentage of lines with 0 in the last column:	29.74%
+Percentage of lines without 0 in the last column:	70.26%
+
+sample: 3351
+Number of lines with 0 in the last column:	1164
+Percentage of lines with 0 in the last column:	29.31%
+Percentage of lines without 0 in the last column:	70.69%
+
+sample: 3362
+Number of lines with 0 in the last column:	924
+Percentage of lines with 0 in the last column:	31.38%
+Percentage of lines without 0 in the last column:	68.62%
+
+sample: 3378
+Number of lines with 0 in the last column:	896
+Percentage of lines with 0 in the last column:	25.60%
+Percentage of lines without 0 in the last column:	74.40%
+
+sample: A6NI
+Number of lines with 0 in the last column:	673
+Percentage of lines with 0 in the last column:	25.15%
+Percentage of lines without 0 in the last column:	74.85%
+
+sample: 3387
+Number of lines with 0 in the last column:	645
+Percentage of lines with 0 in the last column:	20.62%
+Percentage of lines without 0 in the last column:	79.38%
+
+sample: A6NJ
+Number of lines with 0 in the last column:	354
+Percentage of lines with 0 in the last column:	13.62%
+Percentage of lines without 0 in the last column:	86.38%
+
+sample: A8OW
+Number of lines with 0 in the last column:	764
+Percentage of lines with 0 in the last column:	26.61%
+Percentage of lines without 0 in the last column:	73.39%
+
+sample: A8YJ
+Number of lines with 0 in the last column:	1034
+Percentage of lines with 0 in the last column:	36.52%
+Percentage of lines without 0 in the last column:	63.48%
+
+sample: A93Z
+Number of lines with 0 in the last column:	628
+Percentage of lines with 0 in the last column:	29.35%
+Percentage of lines without 0 in the last column:	70.65%
+
+sample: 3307
+Number of lines with 0 in the last column:	875
+Percentage of lines with 0 in the last column:	32.88%
+Percentage of lines without 0 in the last column:	67.12%
+
+sample: 3316
+Number of lines with 0 in the last column:	924
+Percentage of lines with 0 in the last column:	27.10%
+Percentage of lines without 0 in the last column:	72.90%
+
+sample: 3324
+Number of lines with 0 in the last column:	666
+Percentage of lines with 0 in the last column:	22.51%
+Percentage of lines without 0 in the last column:	77.49%
+
+sample: 3343
+Number of lines with 0 in the last column:	700
+Percentage of lines with 0 in the last column:	25.22%
+Percentage of lines without 0 in the last column:	74.78%
+
+sample: 3349
+Number of lines with 0 in the last column:	813
+Percentage of lines with 0 in the last column:	28.23%
+Percentage of lines without 0 in the last column:	71.77%
+
+sample: 3359
+Number of lines with 0 in the last column:	850
+Percentage of lines with 0 in the last column:	23.00%
+Percentage of lines without 0 in the last column:	77.00%
+
+sample: 3374
+Number of lines with 0 in the last column:	292
+Percentage of lines with 0 in the last column:	18.43%
+Percentage of lines without 0 in the last column:	81.57%
+
+sample: 3383
+Number of lines with 0 in the last column:	375
+Percentage of lines with 0 in the last column:	22.99%
+Percentage of lines without 0 in the last column:	77.01%
+
+sample: A8OU
+Number of lines with 0 in the last column:	775
+Percentage of lines with 0 in the last column:	24.97%
+Percentage of lines without 0 in the last column:	75.03%
+
+sample: 3306
+Number of lines with 0 in the last column:	659
+Percentage of lines with 0 in the last column:	31.81%
+Percentage of lines without 0 in the last column:	68.19%
+
+sample: 3311
+Number of lines with 0 in the last column:	641
+Percentage of lines with 0 in the last column:	23.78%
+Percentage of lines without 0 in the last column:	76.22%
+
+sample: 3331
+Number of lines with 0 in the last column:	818
+Percentage of lines with 0 in the last column:	23.13%
+Percentage of lines without 0 in the last column:	76.87%
+
+sample: 3358
+Number of lines with 0 in the last column:	439
+Percentage of lines with 0 in the last column:	19.18%
+Percentage of lines without 0 in the last column:	80.82%
+
+sample: 3382
+Number of lines with 0 in the last column:	768
+Percentage of lines with 0 in the last column:	23.49%
+Percentage of lines without 0 in the last column:	76.51%
+
+sample: A6NL
+Number of lines with 0 in the last column:	537
+Percentage of lines with 0 in the last column:	18.47%
+Percentage of lines without 0 in the last column:	81.53%
+
+sample: A8CQ
+Number of lines with 0 in the last column:	746
+Percentage of lines with 0 in the last column:	26.30%
+Percentage of lines without 0 in the last column:	73.70%
+
+sample: A8OV
+Number of lines with 0 in the last column:	659
+Percentage of lines with 0 in the last column:	26.54%
+Percentage of lines without 0 in the last column:	73.46%
+
+sample: A54K
+Number of lines with 0 in the last column:	587
+Percentage of lines with 0 in the last column:	20.76%
+Percentage of lines without 0 in the last column:	79.24%
+
+sample: 4701
+Number of lines with 0 in the last column:	1052
+Percentage of lines with 0 in the last column:	31.11%
+Percentage of lines without 0 in the last column:	68.89%
+
+sample: 4707
+Number of lines with 0 in the last column:	846
+Percentage of lines with 0 in the last column:	36.23%
+Percentage of lines without 0 in the last column:	63.77%
+
+sample: 4713
+Number of lines with 0 in the last column:	667
+Percentage of lines with 0 in the last column:	26.58%
+Percentage of lines without 0 in the last column:	73.42%
+
+sample: 4714
+Number of lines with 0 in the last column:	1237
+Percentage of lines with 0 in the last column:	30.73%
+Percentage of lines without 0 in the last column:	69.27%
+
+sample: 4718
+Number of lines with 0 in the last column:	642
+Percentage of lines with 0 in the last column:	33.58%
+Percentage of lines without 0 in the last column:	66.42%
+
+sample: 4817
+Number of lines with 0 in the last column:	808
+Percentage of lines with 0 in the last column:	35.35%
+Percentage of lines without 0 in the last column:	64.65%
+
+sample: 4819
+Number of lines with 0 in the last column:	1019
+Percentage of lines with 0 in the last column:	36.02%
+Percentage of lines without 0 in the last column:	63.98%
+
+sample: 4821
+Number of lines with 0 in the last column:	450
+Percentage of lines with 0 in the last column:	24.63%
+Percentage of lines without 0 in the last column:	75.37%
+
+sample: 4822
+Number of lines with 0 in the last column:	379
+Percentage of lines with 0 in the last column:	25.82%
+Percentage of lines without 0 in the last column:	74.18%
+
+sample: 4824
+Number of lines with 0 in the last column:	875
+Percentage of lines with 0 in the last column:	25.91%
+Percentage of lines without 0 in the last column:	74.09%
+
+sample: 4828
+Number of lines with 0 in the last column:	869
+Percentage of lines with 0 in the last column:	26.03%
+Percentage of lines without 0 in the last column:	73.97%
+
+sample: 4836
+Number of lines with 0 in the last column:	608
+Percentage of lines with 0 in the last column:	25.56%
+Percentage of lines without 0 in the last column:	74.44%
+
+sample: 4837
+Number of lines with 0 in the last column:	604
+Percentage of lines with 0 in the last column:	26.80%
+Percentage of lines without 0 in the last column:	73.20%
+
+sample: 4838
+Number of lines with 0 in the last column:	891
+Percentage of lines with 0 in the last column:	26.69%
+Percentage of lines without 0 in the last column:	73.31%
+
+sample: 4839
+Number of lines with 0 in the last column:	371
+Percentage of lines with 0 in the last column:	26.37%
+Percentage of lines without 0 in the last column:	73.63%
+
+sample: 4843
+Number of lines with 0 in the last column:	996
+Percentage of lines with 0 in the last column:	39.07%
+Percentage of lines without 0 in the last column:	60.93%
+
+sample: 4844
+Number of lines with 0 in the last column:	814
+Percentage of lines with 0 in the last column:	30.16%
+Percentage of lines without 0 in the last column:	69.84%
+
+sample: 4845
+Number of lines with 0 in the last column:	1327
+Percentage of lines with 0 in the last column:	31.42%
+Percentage of lines without 0 in the last column:	68.58%
+
+sample: 4846
+Number of lines with 0 in the last column:	781
+Percentage of lines with 0 in the last column:	25.35%
+Percentage of lines without 0 in the last column:	74.65%
+
+sample: 4847
+Number of lines with 0 in the last column:	843
+Percentage of lines with 0 in the last column:	26.05%
+Percentage of lines without 0 in the last column:	73.95%
+
+sample: 4848
+Number of lines with 0 in the last column:	439
+Percentage of lines with 0 in the last column:	23.12%
+Percentage of lines without 0 in the last column:	76.88%
+
+sample: 4849
+Number of lines with 0 in the last column:	1021
+Percentage of lines with 0 in the last column:	26.07%
+Percentage of lines without 0 in the last column:	73.93%
+
+sample: 4945
+Number of lines with 0 in the last column:	902
+Percentage of lines with 0 in the last column:	26.33%
+Percentage of lines without 0 in the last column:	73.67%
+
+sample: 5080
+Number of lines with 0 in the last column:	572
+Percentage of lines with 0 in the last column:	29.32%
+Percentage of lines without 0 in the last column:	70.68%
+
+sample: 5083
+Number of lines with 0 in the last column:	527
+Percentage of lines with 0 in the last column:	36.24%
+Percentage of lines without 0 in the last column:	63.76%
+
+sample: 5092
+Number of lines with 0 in the last column:	1012
+Percentage of lines with 0 in the last column:	29.41%
+Percentage of lines without 0 in the last column:	70.59%
+
+sample: 5094
+Number of lines with 0 in the last column:	635
+Percentage of lines with 0 in the last column:	19.54%
+Percentage of lines without 0 in the last column:	80.46%
+
+sample: 5095
+Number of lines with 0 in the last column:	956
+Percentage of lines with 0 in the last column:	30.61%
+Percentage of lines without 0 in the last column:	69.39%
+
+sample: 5096
+Number of lines with 0 in the last column:	545
+Percentage of lines with 0 in the last column:	30.64%
+Percentage of lines without 0 in the last column:	69.36%
+
+sample: 5097
+Number of lines with 0 in the last column:	730
+Percentage of lines with 0 in the last column:	30.80%
+Percentage of lines without 0 in the last column:	69.20%
+
+sample: 5099
+Number of lines with 0 in the last column:	944
+Percentage of lines with 0 in the last column:	28.10%
+Percentage of lines without 0 in the last column:	71.90%
+
+sample: 5100
+Number of lines with 0 in the last column:	523
+Percentage of lines with 0 in the last column:	27.48%
+Percentage of lines without 0 in the last column:	72.52%
+
+sample: 5102
+Number of lines with 0 in the last column:	680
+Percentage of lines with 0 in the last column:	25.46%
+Percentage of lines without 0 in the last column:	74.54%
+
+sample: 5106
+Number of lines with 0 in the last column:	992
+Percentage of lines with 0 in the last column:	28.50%
+Percentage of lines without 0 in the last column:	71.50%
+
+sample: 5107
+Number of lines with 0 in the last column:	714
+Percentage of lines with 0 in the last column:	25.94%
+Percentage of lines without 0 in the last column:	74.06%
+
+sample: 5108
+Number of lines with 0 in the last column:	737
+Percentage of lines with 0 in the last column:	29.74%
+Percentage of lines without 0 in the last column:	70.26%
+
+sample: 5109
+Number of lines with 0 in the last column:	546
+Percentage of lines with 0 in the last column:	27.46%
+Percentage of lines without 0 in the last column:	72.54%
+
+sample: 5110
+Number of lines with 0 in the last column:	945
+Percentage of lines with 0 in the last column:	29.97%
+Percentage of lines without 0 in the last column:	70.03%
+
+sample: 5113
+Number of lines with 0 in the last column:	741
+Percentage of lines with 0 in the last column:	24.18%
+Percentage of lines without 0 in the last column:	75.82%
+
+sample: 5115
+Number of lines with 0 in the last column:	959
+Percentage of lines with 0 in the last column:	27.56%
+Percentage of lines without 0 in the last column:	72.44%
+
+sample: 5116
+Number of lines with 0 in the last column:	385
+Percentage of lines with 0 in the last column:	23.50%
+Percentage of lines without 0 in the last column:	76.50%
+
+sample: 5117
+Number of lines with 0 in the last column:	805
+Percentage of lines with 0 in the last column:	37.48%
+Percentage of lines without 0 in the last column:	62.52%
+
+sample: 5119
+Number of lines with 0 in the last column:	603
+Percentage of lines with 0 in the last column:	27.09%
+Percentage of lines without 0 in the last column:	72.91%
+
+sample: 5120
+Number of lines with 0 in the last column:	736
+Percentage of lines with 0 in the last column:	26.20%
+Percentage of lines without 0 in the last column:	73.80%
+
+sample: 5690
+Number of lines with 0 in the last column:	495
+Percentage of lines with 0 in the last column:	21.51%
+Percentage of lines without 0 in the last column:	78.49%
+
+sample: 5690
+Number of lines with 0 in the last column:	477
+Percentage of lines with 0 in the last column:	24.20%
+Percentage of lines without 0 in the last column:	75.80%
+
+sample: 5691
+Number of lines with 0 in the last column:	507
+Percentage of lines with 0 in the last column:	22.19%
+Percentage of lines without 0 in the last column:	77.81%
+
+sample: 5692
+Number of lines with 0 in the last column:	384
+Percentage of lines with 0 in the last column:	19.81%
+Percentage of lines without 0 in the last column:	80.19%
+
+sample: 5693
+Number of lines with 0 in the last column:	482
+Percentage of lines with 0 in the last column:	20.78%
+Percentage of lines without 0 in the last column:	79.22%
+
+sample: 5694
+Number of lines with 0 in the last column:	429
+Percentage of lines with 0 in the last column:	21.23%
+Percentage of lines without 0 in the last column:	78.77%
+
+sample: 5696
+Number of lines with 0 in the last column:	338
+Percentage of lines with 0 in the last column:	22.62%
+Percentage of lines without 0 in the last column:	77.38%
+
+sample: 5696
+Number of lines with 0 in the last column:	466
+Percentage of lines with 0 in the last column:	25.62%
+Percentage of lines without 0 in the last column:	74.38%
+
+sample: 5699
+Number of lines with 0 in the last column:	446
+Percentage of lines with 0 in the last column:	18.98%
+Percentage of lines without 0 in the last column:	81.02%
+
+sample: 5699
+Number of lines with 0 in the last column:	344
+Percentage of lines with 0 in the last column:	20.29%
+Percentage of lines without 0 in the last column:	79.71%
+
+sample: 5701
+Number of lines with 0 in the last column:	330
+Percentage of lines with 0 in the last column:	19.55%
+Percentage of lines without 0 in the last column:	80.45%
+
+sample: 5701
+Number of lines with 0 in the last column:	507
+Percentage of lines with 0 in the last column:	23.79%
+Percentage of lines without 0 in the last column:	76.21%
+
+sample: 5703
+Number of lines with 0 in the last column:	368
+Percentage of lines with 0 in the last column:	19.99%
+Percentage of lines without 0 in the last column:	80.01%
+
+sample: 5703
+Number of lines with 0 in the last column:	451
+Percentage of lines with 0 in the last column:	23.21%
+Percentage of lines without 0 in the last column:	76.79%
+
+sample: 5706
+Number of lines with 0 in the last column:	360
+Percentage of lines with 0 in the last column:	27.44%
+Percentage of lines without 0 in the last column:	72.56%
+
+sample: 5706
+Number of lines with 0 in the last column:	601
+Percentage of lines with 0 in the last column:	25.18%
+Percentage of lines without 0 in the last column:	74.82%
+
+sample: 5707
+Number of lines with 0 in the last column:	409
+Percentage of lines with 0 in the last column:	21.81%
+Percentage of lines without 0 in the last column:	78.19%
+
+sample: 5710
+Number of lines with 0 in the last column:	495
+Percentage of lines with 0 in the last column:	24.09%
+Percentage of lines without 0 in the last column:	75.91%
+
+sample: 5711
+Number of lines with 0 in the last column:	519
+Percentage of lines with 0 in the last column:	24.30%
+Percentage of lines without 0 in the last column:	75.70%
+
+sample: 5711
+Number of lines with 0 in the last column:	579
+Percentage of lines with 0 in the last column:	26.98%
+Percentage of lines without 0 in the last column:	73.02%
+
+sample: 5712
+Number of lines with 0 in the last column:	435
+Percentage of lines with 0 in the last column:	23.30%
+Percentage of lines without 0 in the last column:	76.70%
+
+sample: 5712
+Number of lines with 0 in the last column:	527
+Percentage of lines with 0 in the last column:	25.55%
+Percentage of lines without 0 in the last column:	74.45%
+
+sample: 5713
+Number of lines with 0 in the last column:	537
+Percentage of lines with 0 in the last column:	23.48%
+Percentage of lines without 0 in the last column:	76.52%
+
+sample: 4688
+Number of lines with 0 in the last column:	683
+Percentage of lines with 0 in the last column:	27.36%
+Percentage of lines without 0 in the last column:	72.64%
+
+sample: 4690
+Number of lines with 0 in the last column:	705
+Percentage of lines with 0 in the last column:	27.72%
+Percentage of lines without 0 in the last column:	72.28%
+
+sample: 4693
+Number of lines with 0 in the last column:	830
+Percentage of lines with 0 in the last column:	28.69%
+Percentage of lines without 0 in the last column:	71.31%
+
+sample: 4694
+Number of lines with 0 in the last column:	543
+Percentage of lines with 0 in the last column:	27.98%
+Percentage of lines without 0 in the last column:	72.02%
+
+sample: 4696
+Number of lines with 0 in the last column:	736
+Percentage of lines with 0 in the last column:	26.37%
+Percentage of lines without 0 in the last column:	73.63%
+
+sample: 4697
+Number of lines with 0 in the last column:	672
+Percentage of lines with 0 in the last column:	45.07%
+Percentage of lines without 0 in the last column:	54.93%
+
+sample: 4700
+Number of lines with 0 in the last column:	480
+Percentage of lines with 0 in the last column:	22.85%
+Percentage of lines without 0 in the last column:	77.15%
+
+sample: 5084
+Number of lines with 0 in the last column:	651
+Percentage of lines with 0 in the last column:	26.61%
+Percentage of lines without 0 in the last column:	73.39%
+
+sample: 5085
+Number of lines with 0 in the last column:	598
+Percentage of lines with 0 in the last column:	32.00%
+Percentage of lines without 0 in the last column:	68.00%
+
+sample: 5098
+Number of lines with 0 in the last column:	887
+Percentage of lines with 0 in the last column:	31.43%
+Percentage of lines without 0 in the last column:	68.57%
+
+sample: 5121
+Number of lines with 0 in the last column:	854
+Percentage of lines with 0 in the last column:	40.34%
+Percentage of lines without 0 in the last column:	59.66%
+
+sample: 5402
+Number of lines with 0 in the last column:	584
+Percentage of lines with 0 in the last column:	28.53%
+Percentage of lines without 0 in the last column:	71.47%
+
+sample: 5691
+Number of lines with 0 in the last column:	451
+Percentage of lines with 0 in the last column:	20.97%
+Percentage of lines without 0 in the last column:	79.03%
+
+sample: 5694
+Number of lines with 0 in the last column:	469
+Percentage of lines with 0 in the last column:	22.57%
+Percentage of lines without 0 in the last column:	77.43%
+
+sample: 5697
+Number of lines with 0 in the last column:	409
+Percentage of lines with 0 in the last column:	21.54%
+Percentage of lines without 0 in the last column:	78.46%
+
+sample: 5705
+Number of lines with 0 in the last column:	560
+Percentage of lines with 0 in the last column:	32.20%
+Percentage of lines without 0 in the last column:	67.80%
+
+sample: 5709
+Number of lines with 0 in the last column:	434
+Percentage of lines with 0 in the last column:	23.77%
+Percentage of lines without 0 in the last column:	76.23%
+
+sample: 4699
+Number of lines with 0 in the last column:	1155
+Percentage of lines with 0 in the last column:	36.72%
+Percentage of lines without 0 in the last column:	63.28%
+
+sample: 4700
+Number of lines with 0 in the last column:	664
+Percentage of lines with 0 in the last column:	27.26%
+Percentage of lines without 0 in the last column:	72.74%
+
+sample: 4710
+Number of lines with 0 in the last column:	1146
+Percentage of lines with 0 in the last column:	33.44%
+Percentage of lines without 0 in the last column:	66.56%
+
+sample: 4811
+Number of lines with 0 in the last column:	565
+Percentage of lines with 0 in the last column:	30.91%
+Percentage of lines without 0 in the last column:	69.09%
+
+sample: 5088
+Number of lines with 0 in the last column:	1003
+Percentage of lines with 0 in the last column:	32.64%
+Percentage of lines without 0 in the last column:	67.36%
+
+sample: 5104
+Number of lines with 0 in the last column:	877
+Percentage of lines with 0 in the last column:	30.60%
+Percentage of lines without 0 in the last column:	69.40%
+
+sample: 5400
+Number of lines with 0 in the last column:	443
+Percentage of lines with 0 in the last column:	28.86%
+Percentage of lines without 0 in the last column:	71.14%
+
+sample: 5402
+Number of lines with 0 in the last column:	516
+Percentage of lines with 0 in the last column:	30.26%
+Percentage of lines without 0 in the last column:	69.74%
+
+sample: 5698
+Number of lines with 0 in the last column:	495
+Percentage of lines with 0 in the last column:	25.86%
+Percentage of lines without 0 in the last column:	74.14%
+
+sample: 5705
+Number of lines with 0 in the last column:	658
+Percentage of lines with 0 in the last column:	37.62%
+Percentage of lines without 0 in the last column:	62.38%
+
+sample: 4698
+Number of lines with 0 in the last column:	785
+Percentage of lines with 0 in the last column:	37.63%
+Percentage of lines without 0 in the last column:	62.37%
+
+sample: 4706
+Number of lines with 0 in the last column:	1098
+Percentage of lines with 0 in the last column:	34.72%
+Percentage of lines without 0 in the last column:	65.28%
+
+sample: 4712
+Number of lines with 0 in the last column:	566
+Percentage of lines with 0 in the last column:	31.58%
+Percentage of lines without 0 in the last column:	68.42%
+
+sample: 4815
+Number of lines with 0 in the last column:	1067
+Percentage of lines with 0 in the last column:	34.24%
+Percentage of lines without 0 in the last column:	65.76%
+
+sample: 4816
+Number of lines with 0 in the last column:	998
+Percentage of lines with 0 in the last column:	35.04%
+Percentage of lines without 0 in the last column:	64.96%
+
+sample: 4818
+Number of lines with 0 in the last column:	916
+Percentage of lines with 0 in the last column:	31.33%
+Percentage of lines without 0 in the last column:	68.67%
+
+sample: 4827
+Number of lines with 0 in the last column:	479
+Percentage of lines with 0 in the last column:	32.47%
+Percentage of lines without 0 in the last column:	67.53%
+
+sample: 4834
+Number of lines with 0 in the last column:	621
+Percentage of lines with 0 in the last column:	37.30%
+Percentage of lines without 0 in the last column:	62.70%
+
+sample: 4852
+Number of lines with 0 in the last column:	801
+Percentage of lines with 0 in the last column:	26.40%
+Percentage of lines without 0 in the last column:	73.60%
+
+sample: 5081
+Number of lines with 0 in the last column:	907
+Percentage of lines with 0 in the last column:	29.73%
+Percentage of lines without 0 in the last column:	70.27%
+
+sample: 3427
+Number of lines with 0 in the last column:	412
+Percentage of lines with 0 in the last column:	37.22%
+Percentage of lines without 0 in the last column:	62.78%
+
+sample: 3443
+Number of lines with 0 in the last column:	665
+Percentage of lines with 0 in the last column:	35.91%
+Percentage of lines without 0 in the last column:	64.09%
+
+sample: 3465
+Number of lines with 0 in the last column:	843
+Percentage of lines with 0 in the last column:	37.35%
+Percentage of lines without 0 in the last column:	62.65%
+
+sample: 3777
+Number of lines with 0 in the last column:	489
+Percentage of lines with 0 in the last column:	40.02%
+Percentage of lines without 0 in the last column:	59.98%
+
